@@ -372,7 +372,7 @@ AsciidocFX supports MathJAX, which visually outputs various languages (MathML, T
 ==== Tex formula
 
 .Title (optional)
-[math,target="tex-formula"]
+[latexmath,target="tex-formula"]
 --
 \begin{align}
 \dot{x} & = \sigma(y-x) \\
@@ -384,7 +384,7 @@ AsciidocFX supports MathJAX, which visually outputs various languages (MathML, T
 ==== MathML formula
 
 .Title (optional)
-[math,target="mathml-formula"]
+[mathml,target="mathml-formula"]
 --
 <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
   <mi>x</mi>
